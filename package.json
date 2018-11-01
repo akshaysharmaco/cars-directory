@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.3.1",
+    "@material-ui/icons": "^3.0.1",
+    "add": "^2.0.6",
+    "install": "^0.12.2",
+    "jshint": "^2.9.6",
+    "npm": "^6.4.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "react-skylight": "^0.5.1",
+    "react-table": "^6.8.6"
   },
   "scripts": {
     "start": "react-scripts start",
